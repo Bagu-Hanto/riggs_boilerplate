@@ -73,7 +73,7 @@ RIGGS uses [Model Context Protocol](https://modelcontextprotocol.io) servers to 
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/LBC970/riggs_boilerplate.git MY_BRAIN
+git clone https://github.com/Bagu-Hanto/riggs_boilerplate.git MY_BRAIN
 cd MY_BRAIN
 ```
 
